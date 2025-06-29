@@ -1,2 +1,2 @@
-# html5-cev
-HTML5 cursoemvideo
+# HTML5
+Curso de HTML5 do cursoemvideo
